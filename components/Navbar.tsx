@@ -30,8 +30,6 @@ const { systemTheme, theme, setTheme} = useTheme()
 const currentTheme = theme === 'system' ? systemTheme : theme
 const [navbar, setNavbar] =  useState(false)
 
-console.log('Current theme:', currentTheme);
-
   return (
     <header className='w-full mx-auto px-4 bg-white shadow fixed top-0 z-50 sm-px-20 dark:bg-stone-900 dark:border-b dark:border-stone-600'>
         <div className='justify-between md:items-center md:flex'>
