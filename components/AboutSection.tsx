@@ -70,7 +70,7 @@ const AboutSection = () => {
                         })}
                     </div>
                     <Image 
-                    src={assets.images.heroSection.these}
+                    src={assets.images.these}
                     alt=''
                     width={350}
                     height={350}

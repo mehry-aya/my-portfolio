@@ -7,13 +7,13 @@ import qrmenu from '../../public/qrmenu.png'
 
 
 const images = {
-    heroSection: {
+    
       me,
       these,
       bmft,
       dundill,
       plasfora,
       qrmenu
-    },
+  
 };
 export default images
