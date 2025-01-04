@@ -16,7 +16,7 @@ const projects = [
     {
         name: 'Plasfora',
         description: 'Designed and developed PLASFORA, a medical tourism platform connecting international patients with healthcare services in Tunisia',
-        image: '/plasforaaa.png',
+        image: '/Plasforaaa.png',
         github: '',
         link: '',
     },
