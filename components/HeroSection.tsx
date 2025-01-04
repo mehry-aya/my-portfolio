@@ -10,7 +10,7 @@ const HeroSection = () => {
     <section id="home">
         <div className='flex flex-col items-center text-center justify-center my-10 py-16 sm:py-32 md:flex-row md:space-x-4 md:text-left md:py-52'>
             <div className='md:w1/2 md:mt-2'>
-              <Image src={assets.images.me}
+              <Image src='/me.jpeg'
                alt='' 
                width={300} 
                height={300} 
